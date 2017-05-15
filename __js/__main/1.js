@@ -1,1 +1,1 @@
-alert(1+10);
+alert('hello');

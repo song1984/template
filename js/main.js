@@ -1,3 +1,3 @@
-/*! sonicdm 2017-05-14 */
+/*! sonicdm 2017-05-15 */
 
-alert(11),alert(4),alert(201);
+alert("hello"),alert("world");
