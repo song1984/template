@@ -1,4 +1,4 @@
-/*! sonicdm 2017-05-15 */
+/*! sonicdm 2017-05-18 */
 // Avoid `console` errors in browsers that lack a console.
 (function() {
     var method;
