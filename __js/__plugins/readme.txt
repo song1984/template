@@ -1,1 +1,0 @@
-/* component by foder plugins*/
